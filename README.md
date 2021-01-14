@@ -1,2 +1,0 @@
-# zumabot
-ZumaBot Wacap
