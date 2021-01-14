@@ -13,7 +13,7 @@ const instagram = 'https://instagram.com/lord.zuma45'; // JANGAN UBAH-UBAH INFO!
 const nomer = 'wa.me/6283818003060'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung Owner'; // JANGAN UBAH-UBAH INFO!!!
 const groupwhatsapp = 'Soon'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'https://bit.ly/3aNfHH5'; // JANGAN UBAH-UBAH INFO!!!
+const youtube = 'https://youtube.com/channel/UChuGBhIabLuwGVIGuJkcJ_g'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
