@@ -1,13 +1,13 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Lord Kazoema
 <p align="center">
-<img src= "https://imgur.com/gallery/WJL4meK.png" width="230" height="230"/>
+
 </p>
 <br>
 
 
 
 <p align="center">
-<a href="#"><img title="🔰_MyBot_🔰" src="https://img.shields.io/badge/MYBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="🔰_ZumaBot_🔰" src="https://img.shields.io/badge/MYBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/OneDeathCH"><img title="Author" src="https://img.shields.io/badge/AUTHOR-KAZOEMA-orange.svg?style=for-the-badge&logo=github"></a>
@@ -104,7 +104,7 @@ Script ini di modifikasi sama saya sendiri Kazoema.
 Ket: Aktiv tergantung owner
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 🔰_MyBot_🔰`](+62 831-0265-0464)
+* [`Donasi 🔰_ZumaBot_🔰`](+62 838-1800-3060)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
